@@ -1,0 +1,53 @@
+1.Describe the characteristics of Big data in detail:
+
+	*Volume : It represents the size of the data being generated.
+
+	*Variety : It represents the structure of the data.
+		   It is classified as Structured , unstructed or semi structed data.
+
+	*Velocity : It is the rate at which the data is being generated.
+
+	*Veracity :  It represents the trust worthiness of the data.
+		     It indicates the abnormality in data. 
+
+	*Value : It ensures a large volume and variety of data which is easy to access
+                 and delivers quality analytics that enables informed decisions.
+
+
+
+2.Explain the possible solutions to handle Big data.
+
+	Scale up :  It uses the shared memory processing technique that uses large systems
+		     with enough resources to analyze huge amounts of the data
+
+		    It is also called as vertical scaling
+
+		    If failure occurs the entire system and data will crashed and cannot be recovered.
+
+
+
+	Scale down : It uses Distributed processing that enables many thin computers where 
+		     each node analyze a particular portion and process the data. 
+
+		     It is also called as horizontal scaling. 
+
+		     It over comes the failure through the redundant copy of files.
+
+
+
+3.Explain the differences between scaling up and scaling out.
+
+	
+	Scale up : It is also called as vertical scaling	
+
+		   It uses the shared memory processing technique that uses large systems
+		     with enough resources to analyze huge amounts of the data
+
+		    If failure occurs the entire system and data will crashed and cannot be recovered.
+
+	Scale Down : It is also called as horizontal scaling.
+
+		     It uses Distributed processing that enables many thin computers where 
+		     each node analyze a particular portion and process the data. 
+
+		     It over comes the failure through the redundant copy of files.
